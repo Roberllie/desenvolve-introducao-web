@@ -1,0 +1,11 @@
+.destaque {
+    font-family: Arial, sans-serif; 
+}
+
+p.destaque {
+    font-weight: bold; 
+}
+
+strong.destaque {
+    color: red; 
+}

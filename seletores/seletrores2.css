@@ -1,0 +1,7 @@
+p {
+    font-family: Arial, sans-serif; 
+}
+
+h1 + p {
+    font-weight: bold; 
+}
