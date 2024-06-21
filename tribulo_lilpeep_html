@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tributo a Lil Peep</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        header, footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        footer {
+            font-size: 0.8rem;
+        }
+        aside {
+            float: right;
+            width: 30%;
+            margin-left: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tributo a Lil Peep</h1>
+        <img src="lil-peep-header.jpg" alt="Lil Peep" style="max-width: 100%; height: auto;">
+    </header>
+    
+    <main>
+        <section id="introducao">
+            <h2>Introdução</h2>
+            <p>Lil Peep foi um artista multifacetado conhecido por sua influência na cena musical contemporânea, especialmente no gênero emo rap. Seu estilo único e letras profundas capturaram o coração de milhões ao redor do mundo.</p>
+        </section>
+        
+        <section id="ficha-identificacao">
+            <h2>Ficha de Identificação</h2>
+            <aside>
+                <img src="lil-peep-profile.jpg" alt="Lil Peep - Perfil">
+            </aside>
+            <ul>
+                <li><strong>Nome Completo:</strong> Gustav Elijah Åhr</li>
+                <li><strong>Data de Nascimento:</strong> 1 de novembro de 1996</li>
+                <li><strong>Local de Nascimento:</strong> Allentown, Pensilvânia, EUA</li>
+                <li><strong>Data de Falecimento:</strong> 15 de novembro de 2017</li>
+            </ul>
+        </section>
+        
+        <section id="carreira">
+            <h2>Carreira</h2>
+            <p>Lil Peep iniciou sua carreira na adolescência, lançando músicas no SoundCloud que rapidamente ganharam popularidade. Sua música era uma fusão de emo, punk e rap, abordando temas como depressão, uso de drogas e relacionamentos.</p>
+        </section>
+        
+        <section id="conquistas">
+            <h2>Principais Conquistas</h2>
+            <table>
+                <tr>
+                    <th>Conquista</th>
+                    <th>Ano</th>
+                </tr>
+                <tr>
+                    <td>Primeiro álbum de estúdio "Come Over When You're Sober, Pt. 1"</td>
+                    <td>2017</td>
+                </tr>
+                <tr>
+                    <td>Hit viral "Awful Things" alcança milhões de visualizações</td>
+                    <td>2017</td>
+                </tr>
+                <tr>
+                    <td>Grande influência na cena emo rap</td>
+                    <td>2010s</td>
+                </tr>
+            </table>
+        </section>
+        
+        <section id="outras-informacoes">
+            <h2>Outras Informações</h2>
+            <p>Lil Peep deixou um legado duradouro na música e na cultura jovem, influenciando uma geração de artistas e fãs. Sua autenticidade e vulnerabilidade continuam a ressoar em suas canções e no coração daqueles que o admiram.</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>Fonte: <a href="https://en.wikipedia.org/wiki/Lil_Peep">Wikipedia - Lil Peep</a></p>
+        <p>Criado em junho de 2024</p>
+    </footer>
+</body>
+</html>
